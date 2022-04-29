@@ -12,3 +12,8 @@ for student in range(10):
         failures += 1
 print('passed: ', passes)
 print('failed: ', failures)
+
+if passes >= 8:
+    print('bonus to instructor')
+else:
+    print('instructor need to do more better job')
