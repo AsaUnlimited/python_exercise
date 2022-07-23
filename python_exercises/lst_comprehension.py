@@ -1,4 +1,4 @@
-# u can build a list in declaration in list comprehension
+ # u can build a list in declaration in list comprehension
 # lst = [i for i in range(1, 10)]
 # print(lst)
 

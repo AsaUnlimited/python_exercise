@@ -54,4 +54,26 @@ print(double)
 triple = multiple(3, lambda x: x * x * x)
 print(triple)
 
+# from datetime import date
+# from dataclasses import dataclass
+#
+#
+# @dataclass
+# class Registration:
+#     registration_type: str
+#     registration_description: str
+#     registration_number: str
+#     registration_student_id: int
+#     registration_name: str
+#
+#     registration_id: int = 0
+#
+# def add_registration(self): return f"Application of {self.registration_name}, {self.registration_number},
+# {self.registration_student_id}, {self.registration_type} \ and {self.registration_description} was successful"
+#
+#
+# Reg1 = Registration("high schhol", "people's no.1 in yaba", "1200", "funmi", 29890)
+# print(Reg1.add_registration())
+#
+
 
